@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jackwilson2021
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me 
+- 🌱 I’m currently learning Python and JavaScript
+- 💞️ I’m looking to collaborate on Python and JavaScript
+- 📫 Reach me here
 
 <!---
 jackwilson2021/jackwilson2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
